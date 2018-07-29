@@ -1,5 +1,5 @@
 ## Mercado Livre - Front End Test
-[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/allanavelar/mercadolivre-frontend-test/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/allanavelar/mercadolivre-frontend-test/blob/master/LICENSE)
 
 Developed with React + Nodejs + Express + Webpack + SASS + Nodemon
 
@@ -27,7 +27,7 @@ Run app in __production__ mode with
 
 ### License
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://raw.githubusercontent.com/allanavelar/mercadolivre-frontend-test/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/allanavelar/mercadolivre-frontend-test/blob/master/LICENSE)
   
 Copyright (C) 2018 Allan Avelar
 
