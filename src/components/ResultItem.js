@@ -20,7 +20,7 @@ export default function ResultItem(props) {
           <div className="col info">
             <div>
               <span className="price">
-                R$ {props.price.amount.toLocaleString()}
+                $ {props.price.amount.toLocaleString()}
               </span>
               {props.free_shipping &&
                 <span className="free-shipping-image">free shipping</span>}

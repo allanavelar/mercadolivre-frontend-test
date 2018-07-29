@@ -66,20 +66,20 @@ export default class Item extends View {
                 </div>
                 <div className="col-3">
                   <div className="cond-sold">
-                    {item.condition === 'new' ? 'Novo' : 'Usado'}
+                    {item.condition === 'new' ? 'Nuevo' : 'Usado'}
                     {' '}- {item.sold_quantity}
                     {item.sold_quantity === 1 ? ' vendido' : ' vendidos'}
                   </div>
                   <div className="title">{item.title}</div>
                   <div className="price">
-                    R$ {Math.floor(item.price.amount).toLocaleString()}
+                    $ {Math.floor(item.price.amount).toLocaleString()}
                     <span>{padStart(item.price.decimals, 2, '0')}</span>
                   </div>
                   <button ref="buy" className="btn btn-primary btn-block"
                           onClick={this.handleBuy}>Comprar</button>
                 </div>
                 <div className="description col-12">
-                  <label>Descrição do vendedor</label>
+                  <label>Descripción del producto</label>
                   <div dangerouslySetInnerHTML={{
                     __html: item.description.replace(/\n/g,"<br />") }}
                   ></div>

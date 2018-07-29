@@ -15,7 +15,7 @@ const defaultData = {
       email: 'contact@allanavelar.com',
     },
   },
-  API_LIST = 'https://api.mercadolibre.com/sites/MLB/search?',
+  API_LIST = 'https://api.mercadolibre.com/sites/MLA/search?',
   API_CATEGORY = 'https://api.mercadolibre.com/categories/',
   API_ITEM = 'https://api.mercadolibre.com/items/'
 

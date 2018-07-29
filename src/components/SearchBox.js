@@ -30,13 +30,13 @@ export default class SearchBox extends React.Component {
         <div className="container">
           <div className="row">
             <Link className="navbar-brand col-1" to="/">
-              <span className="brand-image">Mercado Livre</span>
+              <span className="brand-image">Mercado Libre</span>
             </Link>
             <form className="form-inline col" onSubmit={this.handleSearch}
                   action="/items">
               <div className="input-group">
                 <input ref="search" className="form-control" type="text"
-                       name="search" placeholder="Buscar produtos, marcas e muito mais..."
+                       name="search" placeholder="Nunca dejes de buscar"
                        defaultValue={this.props.router.location.query.search} />
                 <button className="input-group-addon">
                   <span className="search-image">Search</span>
