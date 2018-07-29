@@ -19,11 +19,11 @@ Run app in __production__ mode with
 
 ### Screenshots:
 
-[![Screenshot](/blob/master/printscreens/print-01.jpg?raw=true)](/blob/master/printscreens/print-01.jpg?raw=true)
+[![Screenshot](/printscreens/print-01.jpg?raw=true)](/printscreens/print-01.jpg?raw=true)
 
-[![Screenshot](/blob/master/printscreens/print-02.jpg?raw=true)](/blob/master/printscreens/print-02.jpg?raw=true)
+[![Screenshot](/printscreens/print-02.jpg?raw=true)](/printscreens/print-02.jpg?raw=true)
 
-[![Screenshot](/blob/master/printscreens/print-03.jpg?raw=true)](/blob/master/printscreens/print-03.jpg?raw=true)
+[![Screenshot](/printscreens/print-03.jpg?raw=true)](/printscreens/print-03.jpg?raw=true)
 
 ### License
 
