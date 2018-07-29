@@ -5,7 +5,7 @@
   "scripts": {
     "lint": "eslint .",
     "postinstall": "npm run build",
-    "start-prod": "set NODE_ENV=production && node dist/server/index.js",
+    "start": "set NODE_ENV=production && node dist/server/index.js",
     "start-dev": "set NODE_ENV=development && nodemon --watch src/server src/server/index.js --exec babel-node",
     "build": "set NODE_ENV=production && babel src --out-dir dist && babel-node ./node_modules/.bin/webpack"
   },
