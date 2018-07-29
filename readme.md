@@ -19,11 +19,11 @@ Run app in __production__ mode with
 
 ### Screenshots:
 
-[![Screenshot](/printscreens/print-01.jpg?raw=true)](/printscreens/print-01.jpg?raw=true)
+[![Screenshot](/printscreens/print-01.jpg?raw=true)](https://mercadolivre-frontend-test.herokuapp.com/)
 
-[![Screenshot](/printscreens/print-02.jpg?raw=true)](/printscreens/print-02.jpg?raw=true)
+[![Screenshot](/printscreens/print-02.jpg?raw=true)](https://mercadolivre-frontend-test.herokuapp.com/items?search=iphone)
 
-[![Screenshot](/printscreens/print-03.jpg?raw=true)](/printscreens/print-03.jpg?raw=true)
+[![Screenshot](/printscreens/print-03.jpg?raw=true)](https://mercadolivre-frontend-test.herokuapp.com/items/MLB927660792)
 
 ### License
 
