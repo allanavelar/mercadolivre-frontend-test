@@ -1,0 +1,13 @@
+.breadcrumb {
+  font-size: 14px;
+  padding: 16px 0;
+  color: #666;
+  margin: 0;
+
+  .breadcrumb-item:last-child {
+    font-weight: bold;
+    &::before {
+      font-weight: normal;
+    }
+  }
+}

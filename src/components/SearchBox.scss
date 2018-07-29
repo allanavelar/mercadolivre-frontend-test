@@ -1,0 +1,38 @@
+.search-box {
+  background-color: #FFE600;
+
+  .navbar-brand {
+    margin-right: 0;
+  }
+
+  .brand-image {
+    display: inline-block;
+    height: 36px;
+    width: 53px;
+
+    @include text-hide;
+    @include img-retina('../assets/Logo_ML.png', '../assets/Logo_ML@2x.png', 53px, 36px);
+  }
+
+  .search-image {
+    display: inline-block;
+    height: 17px;
+    width: 18px;
+    
+    @include text-hide;
+    @include img-retina('../assets/ic_Search.png', '../assets/ic_Search@2x.png', 18px, 18px);
+  }
+
+  .input-group {
+    width: 100%;
+    input {
+      border-right: none;
+      font-size: 18px;
+    }
+  }
+
+  .form-inline {
+    margin-bottom: 0;
+    padding-left: 0;
+  }
+}

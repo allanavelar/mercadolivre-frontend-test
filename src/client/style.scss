@@ -1,0 +1,17 @@
+$body-bg: #eeeeee;
+$breadcrumb-divider: '>';
+$breadcrumb-divider-color: inherit;
+$grid-gutter-width-base: 32px;
+$input-group-addon-bg: #eeeeee;
+$navbar-padding-y: 0.2rem;
+
+@import '~bootstrap/scss/bootstrap';
+@import '../components/Breadcrumb';
+@import '../components/ResultItem';
+@import '../components/SearchBox';
+@import '../views/Item';
+
+.view-content {
+  background-color: #fff;
+  @include border-top-radius(4px);
+}

@@ -1,0 +1,14 @@
+{
+  "plugins": [ "transform-node-env-inline" ],
+  "presets": [
+    ["env", {
+      "targets": {
+        "browsers": [
+          "last 2 versions"
+        ],
+        "node": "current"
+      }
+    }],
+    "react"
+  ]
+}

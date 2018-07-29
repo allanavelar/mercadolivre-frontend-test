@@ -1,0 +1,32 @@
+.item {
+  .view-content {
+    padding: $grid-gutter-width-base;
+  }
+
+  .cond-sold {
+    margin-bottom: $grid-gutter-width-base / 2;
+    font-size: 14px;
+  }
+
+  .title {
+    font-size: 24px;
+  }
+
+  .price {
+    margin: $grid-gutter-width-base 0;
+    font-size: 46px;
+    span {
+      vertical-align: text-top;
+      font-size: 50%;
+    }
+  }
+
+  .description {
+    margin-top: 50px;
+    > label {
+      margin-bottom: $grid-gutter-width-base;
+      font-size: 28px;
+      display: block;
+    }
+  }
+}

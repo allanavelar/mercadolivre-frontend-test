@@ -1,0 +1,45 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended"
+  ],
+  "globals": {
+    "Promise": true,
+    "fetch": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "sourceType": "module"
+  },
+  "plugins": [
+    "import",
+    "react",
+    "sort-class-members"
+  ],
+  "rules": {
+    "array-bracket-spacing": [ "error", "always" ],
+    "comma-dangle": ["error", "always-multiline"],
+    "curly": 2,
+    "import/no-unresolved": 2,
+    "indent": [ "error", 2, {"SwitchCase": 1} ],
+    "max-len": [ "error", 80 ],
+    "no-extra-parens": 2,
+    "no-extra-semi": 2,
+    "no-undef": 2,
+    "no-unused-vars": 2,
+    "quotes": [ "error", "single", {"avoidEscape": true} ],
+    "semi": [ "error", "never" ],
+    "semi-spacing": 2,
+    "sort-class-members/sort-class-members": [ "error", {
+      "order": [
+        "[properties]",
+        "[conventional-private-properties]",
+        "constructor",
+        "[methods]",
+        "[conventional-private-methods]"
+      ]
+    } ],
+    "sort-imports": 2,
+    "space-before-blocks": 2
+  }
+}
