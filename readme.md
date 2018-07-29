@@ -19,11 +19,11 @@ Run app in __production__ mode with
 
 ### Screenshots:
 
-[![Screenshot](/allanavelar/mercadolivre-frontend-test/blob/master/printscreens/print-01.jpg?raw=true)](/allanavelar/mercadolivre-frontend-test/blob/master/printscreens/print-01.jpg?raw=true)
+[![Screenshot](/blob/master/printscreens/print-01.jpg?raw=true)](/blob/master/printscreens/print-01.jpg?raw=true)
 
-[![Screenshot](/allanavelar/mercadolivre-frontend-test/blob/master/printscreens/print-02.jpg?raw=true)](/allanavelar/mercadolivre-frontend-test/blob/master/printscreens/print-02.jpg?raw=true)
+[![Screenshot](/blob/master/printscreens/print-02.jpg?raw=true)](/blob/master/printscreens/print-02.jpg?raw=true)
 
-[![Screenshot](/allanavelar/mercadolivre-frontend-test/blob/master/printscreens/print-03.jpg?raw=true)](/allanavelar/mercadolivre-frontend-test/blob/master/printscreens/print-03.jpg?raw=true)
+[![Screenshot](/blob/master/printscreens/print-03.jpg?raw=true)](/blob/master/printscreens/print-03.jpg?raw=true)
 
 ### License
 
