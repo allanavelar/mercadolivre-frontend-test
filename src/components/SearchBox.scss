@@ -1,6 +1,13 @@
 .search-box {
   background-color: #FFE600;
 
+  .container {
+    @media screen and (max-width: 425px) {
+      padding: 0;
+      margin: 0;
+    }
+  }
+
   .logo {
     padding: 0 0 0 13px;
   }
