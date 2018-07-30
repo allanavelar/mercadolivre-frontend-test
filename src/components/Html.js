@@ -12,6 +12,7 @@ export default function Html(props) {
   return (
     <html>
       <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>MercadoLivre Front-End Test - Allan Avelar</title>
         {props.cssFiles.map(file =>
           <link key={file} href={'/assets/' + file} rel="stylesheet"/>
