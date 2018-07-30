@@ -29,7 +29,7 @@ export default class SearchBox extends React.Component {
       <nav className="search-box navbar navbar-light">
         <div className="container">
           <div className="row">
-            <Link className="navbar-brand col-1" to="/">
+            <Link className="logo" to="/">
               <span className="brand-image">Mercado Libre</span>
             </Link>
             <form className="form-inline col" onSubmit={this.handleSearch}
