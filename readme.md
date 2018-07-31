@@ -1,6 +1,6 @@
 ## Mercado Livre - Front End Test
 [![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/allanavelar/mercadolivre-frontend-test/blob/master/LICENSE)
-[![CircleCI](https://circleci.com/gh/allanavelar/mercadolivre-frontend-test/tree/master.svg?style=svg)](https://circleci.com/gh/allanavelar/mercadolivre-frontend-test/tree/master)
+[![CircleCI](https://circleci.com/gh/allanavelar/mercadolivre-frontend-test/tree/pt-br.svg?style=svg)](https://circleci.com/gh/allanavelar/mercadolivre-frontend-test/tree/pt-br)
 
 Developed with React + Nodejs + Express + Webpack + SASS + Nodemon
 
