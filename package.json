@@ -16,7 +16,7 @@
     "babel-plugin-transform-node-env-inline": "^0.0.2",
     "babel-preset-env": "^1.1.11",
     "babel-preset-react": "^6.23.0",
-    "bootstrap": "4.0.0-alpha.6",
+    "bootstrap": ">=4.1.2",
     "css-loader": "^0.26.2",
     "express": "^4.14.1",
     "extract-text-webpack-plugin": "^2.0.0",
